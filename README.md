@@ -1,4 +1,4 @@
-# Airfoil Noise Prediction: ETL and Machine Learning Pipeline with PySpark
+ju# Airfoil Noise Prediction: ETL and Machine Learning Pipeline with PySpark
 
 ## Project Overview
 
@@ -61,9 +61,7 @@ The model is evaluated using the following metrics:
 - Mean Absolute Error (MAE)
 - R-squared (R2) score
 
-## Authors
 
-- [Ramesh Sannareddy](https://www.linkedin.com/in/rsannareddy/)
 
 ## License
 
